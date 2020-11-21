@@ -5,6 +5,14 @@
     "slug": "scholar-sphere",
     "status": "up",
     "uptime": "100.00",
-    "time": 522
+    "time": 354
+  },
+  {
+    "name": "foo",
+    "url": "https://dfdgrdfg.com",
+    "slug": "foo",
+    "status": "down",
+    "uptime": "-0.42",
+    "time": 0
   }
 ]
