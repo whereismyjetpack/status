@@ -6,8 +6,6 @@ repo: status # Your Github repository name
 sites:
   - name: ScholarSphere
     url: https://scholarsphere.psu.edu
-  - name: foo
-    url: https://dfdgrdfg.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
