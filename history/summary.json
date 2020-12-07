@@ -2,6 +2,7 @@
   {
     "name": "ScholarSphere",
     "url": "https://scholarsphere.psu.edu",
+    "icon": "https://favicons.githubusercontent.com/scholarsphere.psu.edu",
     "slug": "scholar-sphere",
     "status": "up",
     "uptime": "100.00%",
@@ -10,9 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 251,
-    "timeWeek": 237,
+    "timeDay": 248,
+    "timeWeek": 248,
     "timeMonth": 249,
-    "timeYear": 249
+    "timeYear": 249,
+    "dailyMinutesDown": {}
   }
 ]
