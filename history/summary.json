@@ -6,15 +6,15 @@
     "slug": "scholar-sphere",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.03%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 234,
-    "timeDay": 186,
-    "timeWeek": 220,
-    "timeMonth": 234,
-    "timeYear": 234,
+    "time": 232,
+    "timeDay": 164,
+    "timeWeek": 211,
+    "timeMonth": 232,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2020-12-19": 28
     }
