@@ -1,5 +1,23 @@
 [
   {
+    "name": "harbor",
+    "url": "https://harbor.k8s.libraries.psu.edu/api/v2.0/health",
+    "icon": "https://favicons.githubusercontent.com/harbor.k8s.libraries.psu.edu",
+    "slug": "harbor",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 397,
+    "timeDay": 397,
+    "timeWeek": 397,
+    "timeMonth": 397,
+    "timeYear": 397,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "ScholarSphere",
     "url": "https://scholarsphere.psu.edu",
     "icon": "https://favicons.githubusercontent.com/scholarsphere.psu.edu",
@@ -11,8 +29,8 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.81%",
     "time": 226,
-    "timeDay": 155,
-    "timeWeek": 200,
+    "timeDay": 174,
+    "timeWeek": 202,
     "timeMonth": 218,
     "timeYear": 226,
     "dailyMinutesDown": {
