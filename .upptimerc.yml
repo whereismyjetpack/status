@@ -4,6 +4,8 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: harbor
+    url: https://harbor.k8s.libraries.psu.edu/api/v2.0/health
   - name: ScholarSphere
     url: https://scholarsphere.psu.edu
 
