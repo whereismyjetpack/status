@@ -4,19 +4,19 @@
     "url": "https://harbor.k8s.libraries.psu.edu/api/v2.0/health",
     "icon": "https://favicons.githubusercontent.com/harbor.k8s.libraries.psu.edu",
     "slug": "harbor",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 187,
-    "timeWeek": 224,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 228,
+    "timeDay": 217,
+    "timeWeek": 228,
+    "timeMonth": 228,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2021-01-19": 0
+      "2021-01-19": 29
     }
   },
   {
