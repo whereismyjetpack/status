@@ -4,9 +4,9 @@
     "url": "https://harbor.k8s.libraries.psu.edu/api/v2.0/health",
     "icon": "https://favicons.githubusercontent.com/harbor.k8s.libraries.psu.edu",
     "slug": "harbor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 224,
     "timeMonth": 224,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-19": 0
+    }
   },
   {
     "name": "ScholarSphere",
