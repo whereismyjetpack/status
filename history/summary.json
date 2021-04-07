@@ -4,7 +4,7 @@
     "url": "https://harbor.k8s.libraries.psu.edu/api/v2.0/health",
     "icon": "https://favicons.githubusercontent.com/harbor.k8s.libraries.psu.edu",
     "slug": "harbor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
