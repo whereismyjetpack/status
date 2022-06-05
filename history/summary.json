@@ -6,17 +6,16 @@
     "slug": "harbor",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 291,
     "timeDay": 242,
     "timeWeek": 421,
     "timeMonth": 341,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2022-06-04": 11,
       "2022-05-15": 37,
       "2022-02-12": 15,
       "2022-02-10": 36,
@@ -26,8 +25,7 @@
       "2021-07-20": 225,
       "2021-07-15": 30,
       "2021-07-14": 15,
-      "2021-06-17": 16,
-      "2021-06-05": 21
+      "2021-06-17": 16
     }
   },
   {
@@ -37,9 +35,9 @@
     "slug": "scholar-sphere",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 275,
     "timeDay": 398,
@@ -47,12 +45,10 @@
     "timeMonth": 595,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2022-06-04": 11,
       "2022-05-15": 18,
       "2021-11-29": 15,
       "2021-07-20": 223,
-      "2021-06-17": 15,
-      "2021-06-05": 20
+      "2021-06-17": 15
     }
   }
 ]
