@@ -33,9 +33,9 @@
     "slug": "scholar-sphere",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 747,
     "timeDay": 154,
@@ -43,7 +43,6 @@
     "timeMonth": 556,
     "timeYear": 820,
     "dailyMinutesDown": {
-      "2023-07-19": 7,
       "2022-11-19": 344
     }
   }
