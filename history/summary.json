@@ -31,19 +31,19 @@
     "url": "https://scholarsphere.psu.edu",
     "icon": "https://icons.duckduckgo.com/ip3/scholarsphere.psu.edu.ico",
     "slug": "scholar-sphere",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
     "time": 748,
-    "timeDay": 154,
-    "timeWeek": 460,
-    "timeMonth": 556,
-    "timeYear": 820,
+    "timeDay": 208,
+    "timeWeek": 444,
+    "timeMonth": 549,
+    "timeYear": 819,
     "dailyMinutesDown": {
-      "2023-07-20": 0,
+      "2023-07-20": 7,
       "2022-11-19": 344
     }
   }
