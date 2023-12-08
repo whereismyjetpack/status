@@ -1,7 +1,7 @@
 url: https://harbor.k8s.libraries.psu.edu/api/v2.0/health
 status: up
 code: 200
-responseTime: 949
-lastUpdated: 2023-12-07T23:00:16.455Z
+responseTime: 108
+lastUpdated: 2023-12-08T23:00:14.993Z
 startTime: 2021-01-16T02:29:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
