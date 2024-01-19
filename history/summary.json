@@ -10,10 +10,10 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 639,
-    "timeDay": 829,
-    "timeWeek": 904,
-    "timeMonth": 685,
+    "time": 638,
+    "timeDay": 729,
+    "timeWeek": 469,
+    "timeMonth": 677,
     "timeYear": 637,
     "dailyMinutesDown": {
       "2024-01-18": 15,
@@ -29,17 +29,15 @@
     "slug": "scholar-sphere",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 717,
-    "timeDay": 409,
-    "timeWeek": 701,
-    "timeMonth": 517,
+    "time": 715,
+    "timeDay": 442,
+    "timeWeek": 588,
+    "timeMonth": 492,
     "timeYear": 689,
-    "dailyMinutesDown": {
-      "2024-01-18": 15
-    }
+    "dailyMinutesDown": {}
   }
 ]
