@@ -4,18 +4,19 @@
     "url": "https://harbor.k8s.libraries.psu.edu/api/v2.0/health",
     "icon": "https://icons.duckduckgo.com/ip3/harbor.k8s.libraries.psu.edu.ico",
     "slug": "harbor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 600,
+    "time": 598,
     "timeDay": 108,
     "timeWeek": 324,
     "timeMonth": 403,
     "timeYear": 545,
     "dailyMinutesDown": {
+      "2024-04-18": 0,
       "2024-03-04": 6,
       "2024-01-18": 15,
       "2023-07-18": 20,
@@ -29,9 +30,9 @@
     "slug": "scholar-sphere",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 684,
     "timeDay": 2273,
@@ -39,7 +40,7 @@
     "timeMonth": 770,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2024-04-18": 0
+      "2024-04-18": 7
     }
   }
 ]
